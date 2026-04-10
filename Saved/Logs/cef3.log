@@ -1,4 +1,15 @@
-[11244:19144:0410/102201.042:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[11244:19144:0410/102201.086:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[9148:14088:0410/102204.013:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-A98E2C4843652C5839A72CCBDC53B2F8 will be ignored
-[11244:19144:0410/110151.317:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[25440:776:0410/134128.857:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[25440:776:0410/134128.869:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Ключ не может быть использован в указанном состоянии. (0x8009000B)
+[25440:776:0410/134128.911:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[25440:27980:0410/134133.246:WARNING:leveldb_database.cc(141)] Unable to open D:\UE_5.7\Project\Cube\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\UE_5.7\Project\Cube\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25440:27980:0410/134133.248:WARNING:leveldb_database.cc(141)] Unable to open D:\UE_5.7\Project\Cube\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\UE_5.7\Project\Cube\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25440:27980:0410/134133.250:WARNING:leveldb_database.cc(141)] Unable to open D:\UE_5.7\Project\Cube\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\UE_5.7\Project\Cube\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25440:27980:0410/134133.251:WARNING:leveldb_database.cc(141)] Unable to open D:\UE_5.7\Project\Cube\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\UE_5.7\Project\Cube\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25524:29272:0410/134133.838:ERROR:backend_impl.cc(989)] Critical error found -8
+[25440:27980:0410/134133.843:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25440:27980:0410/134133.849:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25524:29272:0410/134136.027:WARNING:storage_block-inl.h(138)] Failed data load.
+[25524:29272:0410/134136.027:WARNING:storage_block-inl.h(138)] Failed data load.
+[25524:29272:0410/134136.027:ERROR:entry_impl.cc(955)] Failed to save user data
+[21728:22288:0410/134136.335:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-AB90ED6688C6897DFBB1DD7BB1D6F9CE will be ignored
+[25440:776:0410/141452.638:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
