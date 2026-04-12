@@ -1,10 +1,8 @@
-[2784:33768:0410/152719.543:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[2784:33768:0410/152719.587:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[2784:33284:0410/152722.077:WARNING:leveldb_database.cc(141)] Unable to open D:\UE_5.7\Project\Cube\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\UE_5.7\Project\Cube\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[2784:33284:0410/152722.078:WARNING:leveldb_database.cc(141)] Unable to open D:\UE_5.7\Project\Cube\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\UE_5.7\Project\Cube\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[2784:33284:0410/152722.080:WARNING:leveldb_database.cc(141)] Unable to open D:\UE_5.7\Project\Cube\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\UE_5.7\Project\Cube\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[2784:33284:0410/152722.081:WARNING:leveldb_database.cc(141)] Unable to open D:\UE_5.7\Project\Cube\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\UE_5.7\Project\Cube\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[2784:33284:0410/152722.326:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[2784:33284:0410/152722.327:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[19204:30820:0410/152724.812:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-2624B2739F839CA05D6F73D6589F1C3C will be ignored
-[2784:33768:0410/171000.032:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[10552:8560:0412/141539.905:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[10552:8560:0412/141540.067:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Ключ не может быть использован в указанном состоянии. (0x8009000B)
+[10552:17488:0412/141540.147:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[10552:8560:0412/141540.243:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[13784:11548:0412/141551.224:ERROR:backend_impl.cc(989)] Critical error found -8
+[13784:11548:0412/141551.439:WARNING:storage_block-inl.h(138)] Failed data load.
+[18988:17120:0412/141551.723:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-9610665BCE161F0A910BBBECAF2C56CE will be ignored
+[10552:8560:0412/145610.588:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
